@@ -1,2 +1,3 @@
 # my-chrome-extension
-Random Dad jokes
+> called RandomJokes API 
+> used HTML,CSS,JS
